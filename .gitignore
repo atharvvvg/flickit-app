@@ -1,0 +1,9 @@
+__pycache__/
+venv
+.cursor
+architecture.md
+tasks.md
+yolov8n.pt
+todo
+input/*
+output/*
