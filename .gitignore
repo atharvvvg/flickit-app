@@ -4,6 +4,7 @@ venv
 architecture.md
 tasks.md
 yolov8n.pt
+yolov8s.pt
 todo
 input/*
 output/*
